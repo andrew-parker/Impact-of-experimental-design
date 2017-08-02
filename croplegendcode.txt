@@ -1,0 +1,2 @@
+pdfcrop --margins '-150 10 -150 -120' legendattempt.pdf legendrows.pdf
+
